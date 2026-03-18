@@ -89,4 +89,4 @@ getgenv().TARGET_BRAINROTS = {
     ["Graipuss Medussi"] = true,
     ["Pot Hotspot"] = true
 }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
